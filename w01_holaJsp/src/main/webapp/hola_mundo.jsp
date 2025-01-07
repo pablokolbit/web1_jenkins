@@ -7,6 +7,7 @@
 <title>Insert title here</title>
 </head>
 <body>
-	<%out.println("Hola desde JSP"); %>
+	<%out.println("Desde JSP"); %>
+	<%out.println("Hola Mundo cruel!!!"); %>
 </body>
 </html>
